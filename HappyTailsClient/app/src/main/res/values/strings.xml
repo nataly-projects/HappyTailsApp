@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">Happy Tails</string>
+
+    <!-- general -->
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone">Phone</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="submit">Submit</string>
+    <string name="save">Save</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="full_name">Full Name</string>
+    <string name="cancel">Cancel</string>
+
+
+
+    <!-- registration -->
+    <string name="login">Login</string>
+    <string name="signin">Sign in</string>
+    <string name="register_here">Register here</string>
+    <string name="or">Or</string>
+    <string name="guest">Continue as a guest</string>
+    <string name="register">Register</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="signup">Sign Up</string>
+    <string name="have_account">Already have an account?</string>
+    <string name="forget_password">Forget password? Reset here</string>
+
+
+    <!-- menu -->
+    <string name="menu">menu</string>
+    <string name="requests">Requests</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="about_us">About us</string>
+    <string name="registration">Registration</string>
+
+
+    <!-- for the spinner -->
+    <string name="spinner_prompt">Select a category</string>
+    <string name="other_category">Other</string>
+
+    <!-- for the SP -->
+    <string name="user_sp">user</string>
+    <string name="categories_sp">categories</string>
+
+    <!-- about us page -->
+    <string name="fill_form_about_us_page">Please fill out the form below to contact us with any questions or feedback. We will get back to you as soon as possible.\nThank you for your interest in Happy Tails!</string>
+    <string name="about_us_text">Welcome to Happy Tails! Our app helps you connect with pets owners to find the perfect pet for your family. Our mission is to connect animal lovers with adorable pets that are looking for their forever homes. Whether you\'re looking to adopt a furry friend or find a loving home for an animal in need, Happy Tails is here to make the process seamless and joyful. For those seeking to adopt, our platform offers a wide range of lovable pets waiting to find their perfect match. You can browse through profiles, read animals descriptions, and view adorable photos of the animals available for adoption. When you find a pet that captures your heart, simply reach out to the animal\'s page to start the adoption process. If you\'re looking to re home an animal, Happy Tails provides a simple and secure way to connect with potential adopters. You can create a detailed profile for your pet, highlighting their unique personality, preferences, descriptions and photos.\n\nTogether, we can create countless happy tails and make a lasting impact in the lives of animals. Start exploring the app today and be a part of something truly special. Thank you for choosing Happy Tails!</string>
+    <string name="about_us_title">About Us</string>
+    <string name="contact_us_about_us_form">Contact Us</string>
+
+    <!-- add animal page -->
+    <string name="add_animal_title">Add Animal to adoption</string>
+    <string name="age">Age</string>
+    <string name="weight">Weight</string>
+    <string name="short_description">Short Description</string>
+
+    <!-- animal details page -->
+    <string name="name_colon">Name:</string>
+    <string name="age_colon">Age:</string>
+    <string name="weight_colon">Weight:</string>
+    <string name="gender_colon">Gender:</string>
+    <string name="category_colon">Category:</string>
+    <string name="description_colon">Description:</string>
+    <string name="owner_details">Owner Details:</string>
+    <string name="email_colon">email:</string>
+    <string name="phone_colon">phone:</string>
+
+    <!-- home page -->
+    <string name="home_page_title">HELP US HELP THEM!\nAdopt a FurEver friend today!</string>
+
+    <!-- requests page -->
+    <string name="pending_requests">Pending Requests:</string>
+    <string name="history_requests">History Requests:</string>
+
+    <!-- user profile page -->
+    <string name="your_animal_list">Your Animal List:</string>
+    <string name="you_dont_add_animal_yet">You don\'t add animal yet.</string>
+
+    <!-- add category dialog -->
+    <string name="add_new_category">Add new category</string>
+    <string name="enter_the_category">Enter the category</string>
+    <string name="add">Add</string>
+
+    <!-- adopt me dialog -->
+    <string name="adopt">Adopt</string>
+    <string name="owner_name">Owner Name:</string>
+    <string name="owner_email">Owner Email:</string>
+    <string name="owner_phone">Owner Phone:</string>
+    <string name="leave_a_message_for_the_owner">You can leave a message for the owner</string>
+    <string name="send_request_for_adoption">Send request for adoption</string>
+
+    <!-- request list item -->
+    <string name="request_to_adopt">Request to adopt - </string>
+    <string name="from">From:</string>
+    <string name="message_colon">Message:</string>
+    <string name="accept">Accept</string>
+    <string name="deny">Deny</string>
+
+    <!-- reset password code dialog -->
+    <string name="reset_password">Reset Password</string>
+    <string name="enter_the_code">Enter the code</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="reset_password_message">An email with a code will send to your email</string>
+
+    <!-- reset password dialog -->
+    <string name="enter_your_new_password">Enter your new Password</string>
+    <string name="confirm_your_new_password">Confirm your new Password</string>
+    <string name="update">Update</string>
+
+
+</resources>
