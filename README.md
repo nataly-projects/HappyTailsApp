@@ -36,7 +36,7 @@ Once the app is deployed and installed, you can start using it by logging in wit
   Ensure that environment variables are set correctly in the environment where the application will run.
 - Run the app (run the HappyTailsServer file)
 
-# Using Environment Variables for Secure Configuration
+- Using Environment Variables for Secure Configuration
 In this project, we use environment variables to securely manage sensitive configuration data like passwords.
 This approach prevents hardcoding sensitive information in your source code and enhances security.
 
