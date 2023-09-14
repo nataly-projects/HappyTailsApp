@@ -5,9 +5,9 @@ Happy Tails is a mobile app that helps you connect with pets owners to find the 
 Together, we can create countless happy tails and make a lasting impact in the lives of animals.
 
 # Happy Tails Client:
-# Prerequisites
-- Android Studio (latest version)
-- Android SDK
+-  Prerequisites
+  - Android Studio (latest version)
+  - Android SDK
 
 # Getting Started
 - Clone project repository to the Android Studio
