@@ -6,7 +6,7 @@ Together, we can create countless happy tails and make a lasting impact in the l
 
 # Happy Tails Client
 
-# Prerequisites:
+# Prerequisites: 
 - Android Studio (latest version)
 - Android SDK
 
