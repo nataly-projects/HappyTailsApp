@@ -39,3 +39,5 @@ Once the app is deployed and installed, you can start using it by logging in wit
 # Using Environment Variables for Secure Configuration
 In this project, we use environment variables to securely manage sensitive configuration data like passwords.
 This approach prevents hardcoding sensitive information in your source code and enhances security.
+
+# Photos
