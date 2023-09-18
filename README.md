@@ -41,3 +41,14 @@ In this project, we use environment variables to securely manage sensitive confi
 This approach prevents hardcoding sensitive information in your source code and enhances security.
 
 # Photos
+Login page: ![מסך כניסה](https://github.com/nataly-projects/HappyTailsApp/assets/57751387/c8c3c7ff-956a-499c-8aba-5248f75e0fc3)
+Register page: 
+Home page: ![menu](https://github.com/nataly-projects/HappyTailsApp/assets/57751387/e18a5439-ac52-40af-adbc-40ac1497fc1a)
+Add Animal page: ![מסך ההוספה](https://github.com/nataly-projects/HappyTailsApp/assets/57751387/5af283be-9a62-4c51-b087-a1a13f5077bb)
+Animal list by category page: ![Screen Shot 2023-05-27 at 14 15 42](https://github.com/nataly-projects/HappyTailsApp/assets/57751387/4909a7e2-249e-4b22-8985-eba8cae3f366)
+Animal details page: ![1](https://github.com/nataly-projects/HappyTailsApp/assets/57751387/6df9c5d1-aa4a-4c5e-aae3-da0d5950fc17)
+user details page:
+user requests page: <img width="294" alt="Screen Shot 2023-06-23 at 12 05 39" src="https://github.com/nataly-projects/HappyTailsApp/assets/57751387/fae1c49e-9827-4521-9ef4-91179dff6fd6">
+user profile page: ![מסך2](https://github.com/nataly-projects/HappyTailsApp/assets/57751387/f355b902-881d-4f5a-a7bb-bc82dc1e5ac2)
+about us page:
+
