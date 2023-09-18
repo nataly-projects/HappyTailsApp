@@ -45,25 +45,41 @@ This approach prevents hardcoding sensitive information in your source code and 
 Login page:
 
 ![מסך כניסה](https://github.com/nataly-projects/HappyTailsApp/assets/57751387/c8c3c7ff-956a-499c-8aba-5248f75e0fc3)
+
 Register page: 
+
+![מסך הרשמה](https://github.com/nataly-projects/HappyTailsApp/assets/57751387/68bcd1ad-4184-4f90-9151-36ada4816a14)
+
 Home page: 
 
 ![menu](https://github.com/nataly-projects/HappyTailsApp/assets/57751387/e18a5439-ac52-40af-adbc-40ac1497fc1a)
+
 Add Animal page: 
 
 ![מסך ההוספה](https://github.com/nataly-projects/HappyTailsApp/assets/57751387/5af283be-9a62-4c51-b087-a1a13f5077bb)
+
 Animal list by category page: 
 
 ![Screen Shot 2023-05-27 at 14 15 42](https://github.com/nataly-projects/HappyTailsApp/assets/57751387/4909a7e2-249e-4b22-8985-eba8cae3f366)
+
 Animal details page: 
 
 ![1](https://github.com/nataly-projects/HappyTailsApp/assets/57751387/6df9c5d1-aa4a-4c5e-aae3-da0d5950fc17)
-user details page:
+
 user requests page: 
 
 <img width="294" alt="Screen Shot 2023-06-23 at 12 05 39" src="https://github.com/nataly-projects/HappyTailsApp/assets/57751387/fae1c49e-9827-4521-9ef4-91179dff6fd6">
+
 user profile page: 
 
 ![מסך2](https://github.com/nataly-projects/HappyTailsApp/assets/57751387/f355b902-881d-4f5a-a7bb-bc82dc1e5ac2)
+
+Adopt dialog:
+
+![שליחת הודעת אימוץ](https://github.com/nataly-projects/HappyTailsApp/assets/57751387/9723b4ba-12b0-4b31-82e6-360a1fddf732)
+
+
 about us page:
+
+![about](https://github.com/nataly-projects/HappyTailsApp/assets/57751387/607f1ec7-3a01-445d-a782-b610ef8fbbd4)
 
